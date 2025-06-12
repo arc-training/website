@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ARC Consultancy &amp; Training</title>
+    <link href="https://arc-training.github.io/website/feed.xml" rel="self" />
+    <link href="https://arc-training.github.io/website" />
+    <updated>1970-01-01T07:30:00+07:30</updated>
+    <author>
+        <name>arctraining</name>
+    </author>
+    <id>https://arc-training.github.io/website</id>
+
+</feed>
