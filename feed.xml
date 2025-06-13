@@ -3,12 +3,40 @@
     <title>ARC Consultancy &amp; Training</title>
     <link href="https://arc-training.github.io/website/feed.xml" rel="self" />
     <link href="https://arc-training.github.io/website" />
-    <updated>2025-06-13T10:24:21+08:00</updated>
+    <updated>2025-06-13T14:45:11+08:00</updated>
     <author>
         <name>ARC Consultancy &amp; Training</name>
     </author>
     <id>https://arc-training.github.io/website</id>
 
+    <entry>
+        <title>Test Post 3</title>
+        <author>
+            <name>ARC Consultancy &amp; Training</name>
+        </author>
+        <link href="https://arc-training.github.io/website/test-post-3/"/>
+        <id>https://arc-training.github.io/website/test-post-3/</id>
+            <category term="Free Tutorials"/>
+            <category term="Blog / Resources"/>
+
+        <updated>2025-06-13T14:45:11+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Test Post 2</title>
+        <author>
+            <name>ARC Consultancy &amp; Training</name>
+        </author>
+        <link href="https://arc-training.github.io/website/test-post-2/"/>
+        <id>https://arc-training.github.io/website/test-post-2/</id>
+            <category term="Musings"/>
+            <category term="Blog / Resources"/>
+
+        <updated>2025-06-13T14:44:35+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Another Post</title>
         <author>
@@ -16,6 +44,8 @@
         </author>
         <link href="https://arc-training.github.io/website/another-post/"/>
         <id>https://arc-training.github.io/website/another-post/</id>
+            <category term="Free Tutorials"/>
+            <category term="Blog / Resources"/>
 
         <updated>2025-06-13T10:24:21+08:00</updated>
             <summary>
@@ -36,6 +66,8 @@
         </author>
         <link href="https://arc-training.github.io/website/test-post/"/>
         <id>https://arc-training.github.io/website/test-post/</id>
+            <category term="Events"/>
+            <category term="Courses"/>
 
         <updated>2025-06-13T10:23:31+08:00</updated>
             <summary>
@@ -46,6 +78,80 @@
         <content type="html">
             <![CDATA[
                 <p>test post</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>🐍 Python Basics: Learn to Code Like a Pro (Even If You’re in Middle School!)</title>
+        <author>
+            <name>ARC Consultancy &amp; Training</name>
+        </author>
+        <link href="https://arc-training.github.io/website/python-basics-learn-to-code-like-a-pro/"/>
+        <id>https://arc-training.github.io/website/python-basics-learn-to-code-like-a-pro/</id>
+            <category term="Blog / Resources"/>
+
+        <updated>2025-06-12T22:02:59+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Have you ever wanted to build your own game, automate boring stuff, or even make a cool website? Well, you’re in the right place! Let’s take your first step into the awesome world of Python programming—a powerful language that even kids and beginners can learn&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Have you ever wanted to <strong>build your own game</strong>, <strong>automate boring stuff</strong>, or even <strong>make a cool website</strong>? Well, you’re in the right place! Let’s take your first step into the awesome world of <strong>Python programming</strong>—a powerful language that even kids and beginners can learn easily.</p>
+<h2>💡 What Is Python?</h2>
+<p><strong>Python</strong> is a computer programming language. Just like English helps people talk to each other, <strong>Python helps you talk to computers</strong> and tell them what to do.</p>
+<ul>
+<li>Easy to read 🧾</li>
+<li>Fun to use 🎉</li>
+<li>Super powerful 🚀 (Google, YouTube, and Instagram use it!)</li>
+</ul>
+<h2>🧠 Core Concepts You Should Know</h2>
+<h3>1. Variables: Your Digital Boxes</h3>
+<p>Think of variables like <strong>labeled boxes</strong> where you can store stuff—numbers, words, or even lists of things.</p>
+<pre><code class="language-python">name = "Alex"
+age = 13</code></pre>
+<h3>2. Print: Show It on the Screen</h3>
+<pre><code class="language-python">print("Hello, world!")</code></pre>
+<h3>3. Math with Python</h3>
+<pre><code class="language-python">print(5 + 3)  # Adds
+print(10 - 2) # Subtracts
+print(4 * 2)  # Multiplies
+print(8 / 2)  # Divides</code></pre>
+<h3>4. If Statements: Making Decisions</h3>
+<pre><code class="language-python">age = 13
+
+if age &gt;= 13:
+    print("You're a teenager!")
+else:
+    print("You're still a kid!")</code></pre>
+<h3>5. Loops: Repeat Things Easily</h3>
+<pre><code class="language-python">for i in range(5):
+    print("I love Python!")</code></pre>
+<h3>6. Functions: Your Own Commands</h3>
+<pre><code class="language-python">def say_hello():
+    print("Hi there!")
+
+say_hello()</code></pre>
+<h2>🧪 Try This Mini Project: Your First Python Chatbot!</h2>
+<pre><code class="language-python">name = input("What’s your name? ")
+print("Hi " + name + "! Welcome to Python Prodigy.")</code></pre>
+<h2>🧭 What Can You Build with Python?</h2>
+<ul>
+<li>Games 🕹️ (like with Pygame)</li>
+<li>Websites 🌐 (with Flask or Django)</li>
+<li>Robots 🤖 (using Raspberry Pi)</li>
+<li>AI projects 🧠 (when you're ready for advanced stuff!)</li>
+</ul>
+<h2>🚀 Final Tip: Practice Makes Progress</h2>
+<p>You don’t need to be a genius to learn coding—just curious! The more you practice, the better you’ll get.</p>
+<p><strong>Start small, have fun, and who knows? Maybe your next project will be the next big app!</strong></p>
+<p><strong>Want more beginner projects or tutorials? Check out our “Python for Kids” course at ARC Consultancy &amp; Training!</strong></p>
+<!-- Prism JS -->
+<p>
+<script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/prism.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-python.min.js"></script>
+</p>
             ]]>
         </content>
     </entry>

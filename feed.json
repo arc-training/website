@@ -11,6 +11,34 @@
     },
     "items": [
         {
+            "id": "https://arc-training.github.io/website/test-post-3/",
+            "url": "https://arc-training.github.io/website/test-post-3/",
+            "title": "Test Post 3",
+            "author": {
+                "name": "ARC Consultancy &amp; Training"
+            },
+            "tags": [
+                   "Free Tutorials",
+                   "Blog / Resources"
+            ],
+            "date_published": "2025-06-13T14:45:11+08:00",
+            "date_modified": "2025-06-13T14:45:11+08:00"
+        },
+        {
+            "id": "https://arc-training.github.io/website/test-post-2/",
+            "url": "https://arc-training.github.io/website/test-post-2/",
+            "title": "Test Post 2",
+            "author": {
+                "name": "ARC Consultancy &amp; Training"
+            },
+            "tags": [
+                   "Musings",
+                   "Blog / Resources"
+            ],
+            "date_published": "2025-06-13T14:44:35+08:00",
+            "date_modified": "2025-06-13T14:44:35+08:00"
+        },
+        {
             "id": "https://arc-training.github.io/website/another-post/",
             "url": "https://arc-training.github.io/website/another-post/",
             "title": "Another Post",
@@ -20,9 +48,11 @@
                 "name": "ARC Consultancy &amp; Training"
             },
             "tags": [
+                   "Free Tutorials",
+                   "Blog / Resources"
             ],
             "date_published": "2025-06-13T10:24:21+08:00",
-            "date_modified": "2025-06-13T10:24:21+08:00"
+            "date_modified": "2025-06-13T14:44:03+08:00"
         },
         {
             "id": "https://arc-training.github.io/website/test-post/",
@@ -34,9 +64,26 @@
                 "name": "ARC Consultancy &amp; Training"
             },
             "tags": [
+                   "Events",
+                   "Courses"
             ],
             "date_published": "2025-06-13T10:23:31+08:00",
-            "date_modified": "2025-06-13T10:23:31+08:00"
+            "date_modified": "2025-06-13T14:39:37+08:00"
+        },
+        {
+            "id": "https://arc-training.github.io/website/python-basics-learn-to-code-like-a-pro/",
+            "url": "https://arc-training.github.io/website/python-basics-learn-to-code-like-a-pro/",
+            "title": "🐍 Python Basics: Learn to Code Like a Pro (Even If You’re in Middle School!)",
+            "summary": "Have you ever wanted to build your own game, automate boring stuff, or even make a cool website? Well, you’re in the right place! Let’s take your first step into the awesome world of Python programming—a powerful language that even kids and beginners can learn&hellip;",
+            "content_html": "<p>Have you ever wanted to <strong>build your own game</strong>, <strong>automate boring stuff</strong>, or even <strong>make a cool website</strong>? Well, you’re in the right place! Let’s take your first step into the awesome world of <strong>Python programming</strong>—a powerful language that even kids and beginners can learn easily.</p>\n<h2>💡 What Is Python?</h2>\n<p><strong>Python</strong> is a computer programming language. Just like English helps people talk to each other, <strong>Python helps you talk to computers</strong> and tell them what to do.</p>\n<ul>\n<li>Easy to read 🧾</li>\n<li>Fun to use 🎉</li>\n<li>Super powerful 🚀 (Google, YouTube, and Instagram use it!)</li>\n</ul>\n<h2>🧠 Core Concepts You Should Know</h2>\n<h3>1. Variables: Your Digital Boxes</h3>\n<p>Think of variables like <strong>labeled boxes</strong> where you can store stuff—numbers, words, or even lists of things.</p>\n<pre><code class=\"language-python\">name = \"Alex\"\nage = 13</code></pre>\n<h3>2. Print: Show It on the Screen</h3>\n<pre><code class=\"language-python\">print(\"Hello, world!\")</code></pre>\n<h3>3. Math with Python</h3>\n<pre><code class=\"language-python\">print(5 + 3)  # Adds\nprint(10 - 2) # Subtracts\nprint(4 * 2)  # Multiplies\nprint(8 / 2)  # Divides</code></pre>\n<h3>4. If Statements: Making Decisions</h3>\n<pre><code class=\"language-python\">age = 13\n\nif age &gt;= 13:\n    print(\"You're a teenager!\")\nelse:\n    print(\"You're still a kid!\")</code></pre>\n<h3>5. Loops: Repeat Things Easily</h3>\n<pre><code class=\"language-python\">for i in range(5):\n    print(\"I love Python!\")</code></pre>\n<h3>6. Functions: Your Own Commands</h3>\n<pre><code class=\"language-python\">def say_hello():\n    print(\"Hi there!\")\n\nsay_hello()</code></pre>\n<h2>🧪 Try This Mini Project: Your First Python Chatbot!</h2>\n<pre><code class=\"language-python\">name = input(\"What’s your name? \")\nprint(\"Hi \" + name + \"! Welcome to Python Prodigy.\")</code></pre>\n<h2>🧭 What Can You Build with Python?</h2>\n<ul>\n<li>Games 🕹️ (like with Pygame)</li>\n<li>Websites 🌐 (with Flask or Django)</li>\n<li>Robots 🤖 (using Raspberry Pi)</li>\n<li>AI projects 🧠 (when you're ready for advanced stuff!)</li>\n</ul>\n<h2>🚀 Final Tip: Practice Makes Progress</h2>\n<p>You don’t need to be a genius to learn coding—just curious! The more you practice, the better you’ll get.</p>\n<p><strong>Start small, have fun, and who knows? Maybe your next project will be the next big app!</strong></p>\n<p><strong>Want more beginner projects or tutorials? Check out our “Python for Kids” course at ARC Consultancy &amp; Training!</strong></p>\n<!-- Prism JS -->\n<p>\n<script src=\"https://cdn.jsdelivr.net/npm/prismjs@1.29.0/prism.js\"></script>\n<script src=\"https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-python.min.js\"></script>\n</p>",
+            "author": {
+                "name": "ARC Consultancy &amp; Training"
+            },
+            "tags": [
+                   "Blog / Resources"
+            ],
+            "date_published": "2025-06-12T22:02:59+08:00",
+            "date_modified": "2025-06-13T14:35:51+08:00"
         }
     ]
 }
