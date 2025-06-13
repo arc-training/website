@@ -39,6 +39,22 @@
             "date_modified": "2025-06-13T14:44:35+08:00"
         },
         {
+            "id": "https://arc-training.github.io/website/another-page/",
+            "url": "https://arc-training.github.io/website/another-page/",
+            "title": "🚀 Learn Python from Industry Experts",
+            "summary": "Master the #1 Programming Language in the World 👉 Download Full Course Catalog [PDF] 100% Online | 🎧 Live Classes | 📂 Downloadable Resources Enroll Now Schedule a Free Consultation 📧 Email: arc.training@outlook.com | 📞 Call/WhatsApp: +60 1234 56789 | 🌐 www.arctraining.my",
+            "content_html": "<header>\n<p>Master the #1 Programming Language in the World</p>\n</header>\n<section class=\"section\">\n<h2>🔥 Why Learn Python With Us?</h2>\n<ul>\n<li>✅ Project-Based Learning</li>\n<li>📈 Career-Focused Curriculum</li>\n<li>🧑‍💻 Live Sessions &amp; Mentor Support</li>\n<li>🎓 Certificate of Completion</li>\n</ul>\n</section>\n<section class=\"section\">\n<h2>👨‍💻 Popular Courses</h2>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<th style=\"width: 43.0813%;\"><strong>Course Name</strong></th>\n<th style=\"width: 20.2568%;\"><strong>Level</strong></th>\n<th style=\"width: 16.8323%;\"><strong>Duration</strong></th>\n<th style=\"width: 19.8296%;\"><strong>Mode</strong></th>\n</tr>\n<tr>\n<td style=\"width: 43.0813%;\">Python for Kids</td>\n<td style=\"width: 20.2568%;\">Beginner</td>\n<td style=\"width: 16.8323%;\">2 Weeks</td>\n<td style=\"width: 19.8296%;\">Online</td>\n</tr>\n<tr>\n<td style=\"width: 43.0813%;\">Python for Beginners</td>\n<td style=\"width: 20.2568%;\">Beginner</td>\n<td style=\"width: 16.8323%;\">4 Weeks</td>\n<td style=\"width: 19.8296%;\">Online</td>\n</tr>\n<tr>\n<td style=\"width: 43.0813%;\">Python for Data Science</td>\n<td style=\"width: 20.2568%;\">Intermediate</td>\n<td style=\"width: 16.8323%;\">6 Weeks</td>\n<td style=\"width: 19.8296%;\">Online/Hybrid</td>\n</tr>\n<tr>\n<td style=\"width: 43.0813%;\">Python Automation &amp; Scripting</td>\n<td style=\"width: 20.2568%;\">Intermediate</td>\n<td style=\"width: 16.8323%;\">5 Weeks</td>\n<td style=\"width: 19.8296%;\">Online</td>\n</tr>\n<tr>\n<td style=\"width: 43.0813%;\">Full-Stack Python Developer</td>\n<td style=\"width: 20.2568%;\">Advanced</td>\n<td style=\"width: 16.8323%;\">8 Weeks</td>\n<td style=\"width: 19.8296%;\">Online</td>\n</tr>\n</tbody>\n</table>\n<p><a href=\"#\">👉 Download Full Course Catalog [PDF]</a></p>\n</section>\n<section class=\"section\">\n<h2>🎯 Who Should Join?</h2>\n<ul>\n<li>Students &amp; Fresh Graduates</li>\n<li>Working Professionals Upskilling</li>\n<li>Career Switchers to IT</li>\n<li>Freelancers and Entrepreneurs</li>\n</ul>\n</section>\n<section class=\"cta\">\n<h2>📅 Next Batch Starts: June 24, 2025</h2>\n<p>100% Online | 🎧 Live Classes | 📂 Downloadable Resources</p>\n<a href=\"#\">Enroll Now</a> <a href=\"#\">Schedule a Free Consultation</a></section>\n<footer>📧 Email: arc.training@outlook.com | 📞 Call/WhatsApp: +60 1234 56789 | 🌐 www.arctraining.my</footer>",
+            "author": {
+                "name": "ARC Consultancy &amp; Training"
+            },
+            "tags": [
+                   "Python Courses",
+                   "All Courses"
+            ],
+            "date_published": "2025-06-13T10:26:05+08:00",
+            "date_modified": "2025-06-13T14:58:06+08:00"
+        },
+        {
             "id": "https://arc-training.github.io/website/another-post/",
             "url": "https://arc-training.github.io/website/another-post/",
             "title": "Another Post",
@@ -65,7 +81,7 @@
             },
             "tags": [
                    "Events",
-                   "Courses"
+                   "All Courses"
             ],
             "date_published": "2025-06-13T10:23:31+08:00",
             "date_modified": "2025-06-13T14:39:37+08:00"
@@ -80,10 +96,11 @@
                 "name": "ARC Consultancy &amp; Training"
             },
             "tags": [
+                   "Free Tutorials",
                    "Blog / Resources"
             ],
             "date_published": "2025-06-12T22:02:59+08:00",
-            "date_modified": "2025-06-13T14:35:51+08:00"
+            "date_modified": "2025-06-13T14:52:15+08:00"
         }
     ]
 }
