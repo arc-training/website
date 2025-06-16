@@ -3,12 +3,30 @@
     <title>ARC Consultancy &amp; Training</title>
     <link href="https://arc-training.github.io/website/feed.xml" rel="self" />
     <link href="https://arc-training.github.io/website" />
-    <updated>2025-06-16T21:06:32+08:00</updated>
+    <updated>2025-06-16T22:35:17+08:00</updated>
     <author>
         <name>ARC Consultancy &amp; Training</name>
     </author>
     <id>https://arc-training.github.io/website</id>
 
+    <entry>
+        <title>Jupyter Lite</title>
+        <author>
+            <name>ARC Consultancy &amp; Training</name>
+        </author>
+        <link href="https://arc-training.github.io/website/jupyter-lite/"/>
+        <id>https://arc-training.github.io/website/jupyter-lite/</id>
+            <category term="Python Courses"/>
+            <category term="All Quizes"/>
+
+        <updated>2025-06-16T22:34:19+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="100%" height="700px" style="border: 1px solid #ccc; border-radius: 10px;" src="/assets/jupyterlite/index.html"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test Post 3</title>
         <author>

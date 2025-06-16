@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://arc-training.github.io/website/jupyter-lite/",
+            "url": "https://arc-training.github.io/website/jupyter-lite/",
+            "title": "Jupyter Lite",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"700px\" style=\"border: 1px solid #ccc; border-radius: 10px;\" src=\"/assets/jupyterlite/index.html\"></iframe></div>",
+            "author": {
+                "name": "ARC Consultancy &amp; Training"
+            },
+            "tags": [
+                   "Python Courses",
+                   "All Quizes"
+            ],
+            "date_published": "2025-06-16T22:34:19+08:00",
+            "date_modified": "2025-06-16T22:35:17+08:00"
+        },
+        {
             "id": "https://arc-training.github.io/website/test-post-3/",
             "url": "https://arc-training.github.io/website/test-post-3/",
             "title": "Test Post 3",
@@ -84,7 +99,7 @@
                    "All Courses"
             ],
             "date_published": "2025-06-13T10:23:31+08:00",
-            "date_modified": "2025-06-16T21:06:32+08:00"
+            "date_modified": "2025-06-16T22:28:34+08:00"
         },
         {
             "id": "https://arc-training.github.io/website/python-basics-learn-to-code-like-a-pro/",
