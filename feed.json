@@ -18,7 +18,7 @@
                 "name": "ARC Consultancy &amp; Training"
             },
             "tags": [
-                   "Free Tutorials",
+                   "Tutorials",
                    "Blog / Resources"
             ],
             "date_published": "2025-06-13T14:45:11+08:00",
@@ -64,7 +64,7 @@
                 "name": "ARC Consultancy &amp; Training"
             },
             "tags": [
-                   "Free Tutorials",
+                   "Tutorials",
                    "Blog / Resources"
             ],
             "date_published": "2025-06-13T10:24:21+08:00",
@@ -73,9 +73,9 @@
         {
             "id": "https://arc-training.github.io/website/test-post/",
             "url": "https://arc-training.github.io/website/test-post/",
-            "title": "Test Post",
-            "summary": "test post",
-            "content_html": "<p>test post</p>",
+            "title": "Test Jupyter Lite",
+            "summary": "Try Python Basics in Your Browser",
+            "content_html": "<h2>Try Python Basics in Your Browser</h2>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"700px\" style=\"border: 1px solid #ccc; border-radius: 10px;\" src=\"/assets/jupyterlite/index.html\"></iframe></div>",
             "author": {
                 "name": "ARC Consultancy &amp; Training"
             },
@@ -84,7 +84,7 @@
                    "All Courses"
             ],
             "date_published": "2025-06-13T10:23:31+08:00",
-            "date_modified": "2025-06-13T14:39:37+08:00"
+            "date_modified": "2025-06-16T21:06:32+08:00"
         },
         {
             "id": "https://arc-training.github.io/website/python-basics-learn-to-code-like-a-pro/",
@@ -96,7 +96,7 @@
                 "name": "ARC Consultancy &amp; Training"
             },
             "tags": [
-                   "Free Tutorials",
+                   "Tutorials",
                    "Blog / Resources"
             ],
             "date_published": "2025-06-12T22:02:59+08:00",

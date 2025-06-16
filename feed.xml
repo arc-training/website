@@ -3,7 +3,7 @@
     <title>ARC Consultancy &amp; Training</title>
     <link href="https://arc-training.github.io/website/feed.xml" rel="self" />
     <link href="https://arc-training.github.io/website" />
-    <updated>2025-06-13T14:58:06+08:00</updated>
+    <updated>2025-06-16T21:06:32+08:00</updated>
     <author>
         <name>ARC Consultancy &amp; Training</name>
     </author>
@@ -16,7 +16,7 @@
         </author>
         <link href="https://arc-training.github.io/website/test-post-3/"/>
         <id>https://arc-training.github.io/website/test-post-3/</id>
-            <category term="Free Tutorials"/>
+            <category term="Tutorials"/>
             <category term="Blog / Resources"/>
 
         <updated>2025-06-13T14:45:11+08:00</updated>
@@ -135,7 +135,7 @@
         </author>
         <link href="https://arc-training.github.io/website/another-post/"/>
         <id>https://arc-training.github.io/website/another-post/</id>
-            <category term="Free Tutorials"/>
+            <category term="Tutorials"/>
             <category term="Blog / Resources"/>
 
         <updated>2025-06-13T10:24:21+08:00</updated>
@@ -151,7 +151,7 @@
         </content>
     </entry>
     <entry>
-        <title>Test Post</title>
+        <title>Test Jupyter Lite</title>
         <author>
             <name>ARC Consultancy &amp; Training</name>
         </author>
@@ -163,12 +163,13 @@
         <updated>2025-06-13T10:23:31+08:00</updated>
             <summary>
                 <![CDATA[
-                    test post
+                    Try Python Basics in Your Browser
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>test post</p>
+                <h2>Try Python Basics in Your Browser</h2>
+<div class="post__iframe"><iframe loading="lazy" width="100%" height="700px" style="border: 1px solid #ccc; border-radius: 10px;" src="/assets/jupyterlite/index.html"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -179,7 +180,7 @@
         </author>
         <link href="https://arc-training.github.io/website/python-basics-learn-to-code-like-a-pro/"/>
         <id>https://arc-training.github.io/website/python-basics-learn-to-code-like-a-pro/</id>
-            <category term="Free Tutorials"/>
+            <category term="Tutorials"/>
             <category term="Blog / Resources"/>
 
         <updated>2025-06-12T22:02:59+08:00</updated>
